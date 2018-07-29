@@ -9,3 +9,5 @@
 - [你真的知道JAVA中抽象类和接口的区别么?](https://github.com/shellhub/blog/issues/13)
 
 - [ArrayList源码解析](https://github.com/shellhub/blog/issues/14)
+
+- [设计模式之-单例模式](https://github.com/shellhub/blog/issues/15)
