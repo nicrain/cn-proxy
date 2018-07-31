@@ -11,3 +11,5 @@
 - [ArrayList源码解析](https://github.com/shellhub/blog/issues/14)
 
 - [设计模式之-单例模式](https://github.com/shellhub/blog/issues/15)
+
+- [深入浅出Java Object源码](https://github.com/shellhub/blog/issues/16)
