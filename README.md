@@ -22,7 +22,7 @@ Index
 
   https://github.com/shellhub/blog/labels/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91
 
-*  Docker容器
+* Docker容器
 
   https://github.com/shellhub/blog/labels/Docker
 
