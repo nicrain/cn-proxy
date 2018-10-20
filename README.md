@@ -14,6 +14,9 @@ Index
 
   https://github.com/shellhub/blog/labels/shell
 
+* 开源项目
+
+  https://github.com/shellhub/blog/labels/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE
 * 源码解析
 
   https://github.com/shellhub/blog/labels/%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90
