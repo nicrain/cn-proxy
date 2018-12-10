@@ -1,7 +1,5 @@
 # shellhub blog
 
-Index
-
 * JAVA编程
 
   https://github.com/shellhub/blog/labels/JAVA
