@@ -3,11 +3,12 @@
 记录了自己学习的点点滴滴，使用简单的Github issue记录。我还在以下平台发表内容
 
 1. [**YouTube**](https://www.youtube.com/c/CSWikiTech)
-2. [**CSDN**](https://blog.csdn.net/ishellhub)
-3. [**知乎**](https://www.zhihu.com/people/shellhub)
-4. [**简书**](https://www.youtube.com/c/CSWikiTech)
-5. [**Stackoverflow**](https://stackoverflow.com/users/9106684/shellhub)
-6. [**Medium**](https://medium.com/@shellhub)
+2. [**Bilibili**](https://space.bilibili.com/330911815)
+3. [**Stackoverflow**](https://stackoverflow.com/users/9106684/shellhub)
+4. [**知乎**](https://www.zhihu.com/people/shellhub)
+5. [**CSDN**](https://blog.csdn.net/ishellhub)
+6. [**简书**](https://www.youtube.com/c/CSWikiTech)
+
 
 
 * [JAVA编程](https://github.com/shellhub/blog/labels/JAVA)
