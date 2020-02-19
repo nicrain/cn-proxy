@@ -3,11 +3,11 @@
 
 ## 编程语言
 主要和编程语言相关
-* [C]()
-* [Java]()
-* [Android]()
-* [Python]()
-* [Python]()
+* [C](C)
+* [Java](Java)
+* [Android](Android)
+* [Python](Python)
+* [Python](Python)
 
 ## 编程工具
 介绍开发中常用的软件及工具
