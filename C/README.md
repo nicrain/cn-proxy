@@ -7,5 +7,8 @@
 * [1.4 C 语言版本](chapter_1/1.4.md)
 * [1.5 使用 C 语言的7个步骤](chapter_1/1.5.md)
 
+第二章
+* [2.1 Hello World示例](chapter_2/2.1.md)
+
 # 参考内容
 C Primer Plus 6th Edition
