@@ -1,11 +1,9 @@
-# 杜远超官方频道
-频道主要分享一些学习类，编程类，科技数码类的教程，有兴趣可以订阅下
-
+# Du Yuanchao Official Channel
 ## 目录
 
-* [软件编程](https://github.com/shellhub/blog/labels/%E8%BD%AF%E4%BB%B6%E7%BC%96%E7%A8%8B)
-* [科学上网](https://github.com/shellhub/blog/labels/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
-* [软件分享](https://github.com/shellhub/blog/labels/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB)
+### 科学上网
+
+* [回国节点搭建](docs/回国节点搭建.md)
 
 
 
