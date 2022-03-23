@@ -70,3 +70,8 @@
 * 需要 fq
 * 注册困难
 * 欢迎大家补充
+
+
+
+需要购买或者批发 Gooogle Voice、请访问 [ididhub.com](https://www.ididhub.com/)
+
