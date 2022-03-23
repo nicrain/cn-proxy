@@ -11,7 +11,7 @@
 
 * [电报机器人创建](docs/电报机器人创建.md)
 
-* [Shadowsocks Manager 配置 Trojan 节点](docs/Shadowsocks Manager 配置 Trojan 节点.md)
+* [Shadowsocks Manager 配置 Trojan 节点](docs/ShadowsocksManager配置Trojan节点.md)
 
 ### 工具
 
@@ -25,4 +25,3 @@
 
 如果教程对你有帮助，可以扫描以下二维码请我喝杯咖啡。*Thanks you very much*
 <div align=center><img src="donate.png" width = "300" div align=center />
-
