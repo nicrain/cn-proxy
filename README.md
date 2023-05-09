@@ -1,4 +1,4 @@
-# Du Yuanchao Official Channel
+# Blog
 ## 目录
 
 ### 科学上网
